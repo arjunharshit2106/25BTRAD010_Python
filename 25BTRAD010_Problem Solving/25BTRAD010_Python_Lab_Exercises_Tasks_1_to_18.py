@@ -3,7 +3,7 @@
 # USN: 25BTRAD037
 
 # Task 1 - Print Name, Department, College
-print("Name: Hari Kumaran")
+print("Name: ARJUN")
 print("Department: Computer Science Engineering")
 print("College: Jain University")
 
