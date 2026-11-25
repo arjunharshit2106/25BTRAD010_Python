@@ -1,6 +1,6 @@
 # Python Lab Exercises - Tasks 1 to 18
-# Name: HARIKUMARAN S M
-# USN: 25BTRAD037
+# Name: ARJUN
+# USN: 25BTRAD010
 
 # Task 1 - Print Name, Department, College
 print("Name: ARJUN")
